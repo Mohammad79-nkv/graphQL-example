@@ -3,6 +3,8 @@
     "express": "^4.18.2",
     "express-graphql": "^0.12.0",
     "lodash": "^4.17.21",
-    "mongoose": "^7.4.5"
+    "mongoose": "^7.4.5",
+    "webpack": "^5.88.2",
+    "webpack-dev-middleware": "^6.1.1"
   }
 }
